@@ -2,8 +2,6 @@
 Computer Science Udergraduate <br>CySec and Networks Student <br>Interested in learn AI and Cloud
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-tss/) 
 
