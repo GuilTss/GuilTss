@@ -1,5 +1,5 @@
 # <br> GTSSPortfolio.github.io
-# 💫 About Me: 
+💫 About Me: 
 Computer Science Udergraduate <br>CySec and Networks Student <br>Interested in learn AI and Cloud <br> 
 
 
