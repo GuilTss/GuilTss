@@ -1,6 +1,7 @@
 # 💫 About Me:
-Computer Science Udergraduate <br>CySec and Networks Student <br>Interested in learn AI and Cloud
-GTSSPortfolio.github.io
+Computer Science Udergraduate <br>CySec and Networks Student <br>Interested in learn AI and Cloud <br> GTSSPortfolio.github.io
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-tss/) 
+
 
 
 ## 🌐 Socials:
